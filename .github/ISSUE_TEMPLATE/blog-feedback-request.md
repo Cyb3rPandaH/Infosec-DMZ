@@ -23,8 +23,8 @@ You can simply just share ATT&CK tactic and techniques that your post applies to
 
 # Type
 
-[ ] Offensive Feedback Request
-[ ] Defensive Feedback Request
+- [ ] Offensive Feedback Request
+- [ ] Defensive Feedback Request
 
 Make sure you choose the right tag for your post. Two tags are added to the issue template automatically. Choose one.
 
